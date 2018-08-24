@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Trivandrum Sasthamangalam",
+        "Type": "Express Gym",
+        "Address": "31/747 Shree Dhanya Apex, Sasthamangalam, Trivandrum – 695010",
+        "Phone": "8086400000 | 8086411111 | 0471 2729111",
+        "Email": "goldsgymtvm@gmail.com",
+        "Operational Hours": "Monday – Saturday | 5.30:00 AM – 10:00 PM Sunday | 09:00 AM – 01:00 PM Gym remains closed on every 2nd Saturday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.96643829345703,
+          8.51177169883861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        " Gym": "Tinsukia DPR ",
+        "Type": "Express Gym",
+        "Address": "PRITHVI TOWER 2ND FLOOR ,DEVI PHUKHURI ROAD, OPP. MB’S SWEETS & SNACKS TINSUKIA – 786125",
+        "Phone": " 07638841781 | 08876464591 | 7399599597",
+        "Email": "dpr.tinsukia@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 07:00 AM – 04:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3602123260498,
+          27.492036127598542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Mumbai Lower Parel West",
+        "Type": "Express Gym",
+        "Address": "One Indiabulls Centre, A-2 Tower 1, 3rd Floor, Lower Parel, Mumbai",
+        "Phone": "2224314016 | 9223593159 | 9223593148",
+        "Email": "lparel.mumbai@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:30 PM Sunday | CLOSED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8328537940979,
+          19.006680539796022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Solapur Laxmipeth",
+        "Type": "Express Gym",
+        "Address": "Ramchandra complex, 139, Laxmi Peth, Solapur, Maharashtra – 413001",
+        "Phone": "09021324324 |08999594434",
+        "Email": "Laxmipeth.solapur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.88777184486389,
+          17.67228953047333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Jalgaon Ramdas Colony",
+        "Type": "Express Gym",
+        "Address": "S.No.490/4, Plot No. 58, Shanti Arcade, Ramdas Colony, M.J. College Road, Jalgaon – 425001",
+        "Phone": " 9822289222 | 02572220202",
+        "Email": "jalgaon@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5555534362793,
+          20.99738280634506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Aurangabad Adalat Road",
+        "Type": "Express Gym",
+        "Address": "Plot No.45, Royal Kourt Hotel, Ground and 1st floor, Next to ABC Complex, Adalat Road, Aurangabad – 431001",
+        "Phone": "9545714555 | 9545798555",
+        "Email": " adalatroad.aurangabad@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.32099962234497,
+          19.873107020122905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Ahmednagar Savedi Road",
+        "Type": "Express Gym",
+        "Address": " F.P. 110, Near Professor Colony Chouk, Savedi Area, Ahmednagar – 414002",
+        "Phone": " 2412551000",
+        "Email": "savediroad.ahmednagar@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.73292529582977,
+          19.118601093807722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Bareilly Civil Lines",
+        "Type": "Express Gym",
+        "Address": "4th floor, 35/1/3 Rampur Garden, Bareilly – 243001",
+        "Phone": "7300811180 | 7300811181",
+        "Email": "civillines.bareilly@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.42349195480347,
+          28.348522628689455
+        ]
+      }
+    }
+  ]
+}

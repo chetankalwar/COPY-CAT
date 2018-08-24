@@ -1,0 +1,218 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Vijayawada Labbipet",
+        "Type": "Regular Gym",
+        "Address": "D.No 4-5-1, 1st Block,Vidyanagar,4th Line, Venkata Ramana Estate, Ringroad, Opp Chaitanya School, Guntur-522006",
+        "Phone": "8632226798 | 8632226799 | 8185007799",
+        "Email": "vidyanagar.guntur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:30 AM – 10:00 PM Sunday | 05:30 AM – 12:30 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64575850963593,
+          16.500394735867378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Guntur Vidyanagar",
+        "Type": "Regular Gym",
+        "Address": ".No 4-5-1, 1st Block,Vidyanagar,4th Line, Venkata Ramana Estate, Ringroad, Opp Chaitanya School, Guntur-522006",
+        "Phone": "8632226798 | 8632226799 | 8185007799",
+        "Email": "vidyanagar.guntur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:30 AM – 10:00 PM Sunday | 05:30 AM – 12:30 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.42268991470335,
+          16.317379962403617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Gym": "Jorhat K.B Road",
+        "Type": "Regular Gym",
+        "Address": "Gold’s Gym 4th Floor R.D Complex K.B Road Jorhat",
+        "Phone": "07577802444 | 07577803444",
+        "Email": " kbroad.jorhat@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 07:00 AM – 04:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.21203374862671,
+          26.75413714762897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Gym": "Thanachariali Dibrugarh",
+        "Type": "Regular Gym",
+        "Address": "Kalyani Complex, 1st Floor, K.C.Gogoi Path, Thana Chariali, Dibrugarh, Assam – 786001, Next To Silkalay",
+        "Phone": 9706511800,
+        "Email": "thanachariali.dibrugarh@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:30 AM – 09:30 PM Sunday | CLOSED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.90957975387573,
+          27.48141432827832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Guwahati Ulubari",
+        "Type": "Regular Gym",
+        "Address": "4th Floor ASCU Tower, Opp-B.Borooah College, B.Baruah Road, Guwahati – 781007",
+        "Phone": " 8811049270 | 8811049271",
+        "Email": "ulubari.guwahati@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 9:30 PM Sunday | 07:00 AM – 12:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.75631046295166,
+          26.17834601014345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Guwahati Ganeshguri",
+        "Type": "Regular Gym",
+        "Address": "Monal Tower, 5th Floor, G S Road, Opp. State Secretariat, Ganeshguri, Dispur, Guwahati, Assam – 781005",
+        "Phone": " 3612237588 | 3612031001",
+        "Email": "ganeshguri.guwahati@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.79054617881775,
+          26.14584587620517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Patna Rajender Nagar",
+        "Type": "Regular Gym",
+        "Address": "Ground floor, OM Nirdam, R.K. Avenue Path, Rajender Nagar, Patna – 800016",
+        "Phone": "6122660501 | 6122660503 | 9304006339",
+        "Email": "sarvodaya.patna@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.16235709190369,
+          25.610348638827116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Patna Boring Road",
+        "Type": "Regular Gym",
+        "Address": "27, Kavi Raman Path, Nageshwar Colony, Boring Road, Patna – 800001",
+        "Phone": " 9304478404",
+        "Email": "boringroad.patna@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.122971534729,
+          25.614015322637865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Bilaspur Vyapar Vihar",
+        "Type": "Regular Gym",
+        "Address": "M.Galleria, near gumber petrol pump, Vyapar Vihar, Bilaspur, Chhattisgarh – 495001",
+        "Phone": "7509410000 | 7509420000",
+        "Email": "bilaspur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 02:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.14434623718262,
+          22.068966879341957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Raipur Shankar Nagar",
+        "Type": "Regular Gym",
+        "Address": "Alaska tower, Shankar Nagar, Opp. Arogaya hospital, Raipur, Chhattisgarh – 492001",
+        "Phone": "7714225252 | 7389905353 | 7389905454",
+        "Email": "shankarnagar.raipur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.66275024414061,
+          21.255101727974967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Bhilai Nagar Nehru Nagar East",
+        "Type": "Regular Gym",
+        "Address": "2-3, Commercial Complex, Nehru Nagar East, Dist- Durg, Bhilai, Chhattisgarh – 490020",
+        "Phone": " 7884052001 | 7884052002",
+        "Email": "bhilai.durg@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.32749557495117,
+          21.206818585475137
+        ]
+      }
+    }
+  ]
+}

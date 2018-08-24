@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Sangli MG Road",
+        "Type": "Regular Gym",
+        "Address": "SFC Megaa Mall, 2nd Floor, SF -13 to 17, M.G Road, Old Station Chowk, Sangli – 416416",
+        "Phone": " 2336601111",
+        "Email": "sangli@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5682430267334,
+          16.86018970938638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Pune Model Colony",
+        "Type": "Regular Gym",
+        "Address": "No. 312-316, Pride Silicon Plaza, CS No. 2840, HISSA No. 2A/7A, Shivaji Nagar (Bhamburda), Tal-Haveli, Dist. Pune – 411016",
+        "Phone": "7741000051 | 7741000061",
+        "Email": "modelcolony.pune@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 11:00 PM Sunday | 06:00 AM – 11:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8284495472908,
+          18.561358269428545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Mumbai Powai",
+        "Type": "Regular Gym",
+        "Address": "Stilt Level 04, Supreme Business Park, Supreme City, Behind Lake Castle, Hiranandani Gardens, Powai, Mumbai – 400076",
+        "Phone": "9029001014 | 8655466885 | 2266998500",
+        "Email": " powai.mumbai@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:30 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90981173515318,
+          19.113532485255273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Thane Lbs Marg",
+        "Type": "Regular Gym",
+        "Address": "Gaurangi Chambers, 1st Floor, Opposite Damani Estates, LBS Marg, Thane West, Thane – 400602",
+        "Phone": "2264579999 | 022- 25339614. | 7718869999",
+        "Email": "saptashree.thane@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:30 AM – 10:30 PM Sunday | 08:00 AM – 03:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9656445980072,
+          19.19019376956097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Mumbai Vasai West",
+        "Type": "Regular Gym",
+        "Address": "2, Tania Planet, Bhabhola, Vasai West – 401201",
+        "Phone": "2506528800 | 2506529900",
+        "Email": "chetankalwar15@gmail.com",
+        "Operational Hours": "Monday – Saturday | 05:00 AM – 11:00 PM Sunday | 06:00 AM – 09:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80495077371597,
+          19.32968153732206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Nashik Canada Corner",
+        "Type": "Regular Gym",
+        "Address": "Vasant Market, 2nd Floor, Canada Corner, Nashik – 422005",
+        "Phone": "2532319364 | 2532319347",
+        "Email": "nashik@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78489851951599,
+          20.00675192626942
+        ]
+      }
+    }
+  ]
+}

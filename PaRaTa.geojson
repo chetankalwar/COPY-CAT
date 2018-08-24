@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Phagwara GT Road",
+        "Type": "Regular Gym",
+        "Address": "G.T road, Near bus stand, Phagwara – 144401",
+        "Phone": "8725930303 | 8195820202",
+        "Email": "phagwara.punjab@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7682418823242,
+          31.21793977843283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Mohali Phase 8",
+        "Type": "Regular Gym",
+        "Address": "C-133, Grnd. Floor, Phase 8, Industrial Area, SAS Nagar, Mohali – 160071",
+        "Phone": "1725032888 | 1725058999 | 1725013444",
+        "Email": "mohali@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.69435501098633,
+          30.734901116860257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Ludhiana Brs",
+        "Type": "Regular Gym",
+        "Address": "GK Mall, 3rd floor, Canal Road, Nera Jawaddi Bridge, Ludhiana – 141003",
+        "Phone": "1615041802 | 1615041808",
+        "Email": "gkmall.ludhiana@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84197044372559,
+          30.905391456162434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Jalandhar Model Town",
+        "Type": "Regular Gym",
+        "Address": "Rampaa Centre Point, Above KFC Restaurant, Model Town, Jalandhar, Punjab 144003",
+        "Phone": 1815029999,
+        "Email": "gkmall.ludhiana@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.57701110839844,
+          31.306724321770112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Bathinda Barnala Road",
+        "Type": "Regular Gym",
+        "Address": "2nd Floor, Hotel Best Western Stella, Barnala Bypass Road, Bhatinda, Punjab – 148101",
+        "Phone": "1642272005 | 1642273005",
+        "Email": "barnalaroad.bhatinda@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9472713470459,
+          30.210792322356525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Amritsar Mall Road",
+        "Type": "Regular Gym",
+        "Address": "Adventure Mall, 35-B, Mall Road, Amritsar, Punjab – 143001",
+        "Phone": "1835066066 | 1835066068 | 9988885251",
+        "Email": "themall.amritsar@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87259864807129,
+          31.649509013071324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Udaipur Panchvati",
+        "Type": "Regular Gym",
+        "Address": "49-A, Panchavati, Udaipur, Rajasthan – 313004",
+        "Phone": 2942523280,
+        "Email": "panchvati.udaipur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.69022727012634,
+          24.597616675947318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Kota Talwandi",
+        "Type": "Regular Gym",
+        "Address": "608 A , TALWANDI , KOTA – 324005",
+        "Phone": "8529709990 | 9928316600",
+        "Email": "talwandi.kota@goldsgymindia.com",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 12:00 PM Sunday | 08:00 AM – 06:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84662675857544,
+          25.1501891221721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Jodhpur Akhaliya Circle",
+        "Type": "Regular Gym",
+        "Address": "Akhaliya Circle, Jodhpur, 342002",
+        "Phone": "9636320000 | 8696844444",
+        "Email": "akhaliyacircle.jodhpur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99101829528809,
+          26.278158580633324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Jaipur Vaishali Nagar",
+        "Type": "Regular Gym",
+        "Address": "UDB Hallmark , E 1 E – 45 , Gautam Marg , Vaishali Nagar, Jaipur – 302021",
+        "Phone": 1415112300,
+        "Email": "vaishalinagar.jaipur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.73957443237305,
+          26.885674685815044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Jaipur Malviya Nagar",
+        "Type": "Regular Gym",
+        "Address": "Gaurav Towers, 3rd Floor, Malviya Nagar, Jaipur",
+        "Phone": "8800809632  | 9829272072",
+        "Email": "malviyanagar.jaipur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:30 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.73442459106445,
+          26.8971188249761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Hyderabad Himayat Nagar",
+        "Type": "Regular Gym",
+        "Address": "3-6-289, 3rd floor, Hyderguda Main road, Himayathnagar,Hyderabad-500029",
+        "Phone": "9000026767 | 7680989874",
+        "Email": "himayatnagar.hyderabad@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4811782836914,
+          17.403882008815295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": " Hyderabad Banjara Hills",
+        "Type": "Regular Gym",
+        "Address": "Rd Number 12, Amudi Nagar, Bhola Nagar, Banjara Hills, Hyderabad, Telangana – 500873",
+        "Phone": " 4065645999 | 4023377999 | 7207912999",
+        "Email": "banjarahills.hyd@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44660997390747,
+          17.407843944413088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Address": "2nd Floor, CSR Estate, Plot No. 8, Sector 1, Huda Techno Enclave, Madhapur Main Road, Hyderabad",
+        "Type": "Regular Gym",
+        "Gym": " Hyderabad Madhapur",
+        "marker-symbol": "",
+        "Phone": "7855010203| 04032505050",
+        "Email": "madhapur.hyderabad@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 06:00 AM – 10:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.38468313217163,
+          17.446440165459965
+        ]
+      }
+    }
+  ]
+}

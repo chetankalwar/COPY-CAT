@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Punjab Kapurthala",
+        "Type": "Express Gym",
+        "Address": "2nd Floor, Gurbax Complex, Ramneek Chowk,Kapurthala",
+        "Phone": " 8195004004",
+        "Email": "director.gurbaxcomplex@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 06:00 AM – 10:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3783667087555,
+          31.372857118678155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Pathankot Dhangu Road",
+        "Type": "Express Gym",
+        "Address": "Plot no 587, Sector 10, Near Hotel Capri, Dhangu Road, Pathankot – 145001, Punjab",
+        "Phone": "7083712345 | 9888135345",
+        "Email": "dhanguroad.pathankot@goldsgym.in",
+        "Operational Hours": "Monday – Friday | 06:00 AM – 10:00 PM Sunday | 08:00 AM – 02:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.65116882324219,
+          32.26842844063761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Mohali Kharar",
+        "Type": "Express Gym",
+        "Address": "Shivjot Fitness, SCO no 1,2,3,4 Shivjot Enclave, Kharar District Mohali.",
+        "Phone": "9988776269 | 9988776249 |1605007407",
+        "Email": "shivjotenclave.kharar@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 10:00 AM – 08:00 PM Sunday | 10:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.74546718597412,
+          30.72241388816394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Ajmer Jaipur Road",
+        "Type": "Express Gym",
+        "Address": "387/10 Raj Nissan Building, Jaipur Road, Opposite Patel stadium, Near Bajrang petrol pump, Ajmer – 305001",
+        "Phone": "9828678666 | 9783646668",
+        "Email": "ajmer@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.63911771774292,
+          26.466981047324165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Haldwani Naintal Road",
+        "Type": "Express Gym",
+        "Address": "Walkway Mall, 4th Floor, Nainital Road, Kathgodam, Haldwani – 263126",
+        "Phone": "8979512358 | 8130778188",
+        "Email": "kathgodam.haldwani@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.53820466995239,
+          29.249055509630217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Siliguri Sevoke Road",
+        "Type": "Express Gym",
+        "Address": "3rd Floor, Infinity Square,Beside PCM Bus Terminus,2nd Mile, Sevoke Road, Siliguri – 734004",
+        "Phone": "9800590005 | 9800590006",
+        "Email": "siliguri@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.43419075012207,
+          26.740628155838127
+        ]
+      }
+    }
+  ]
+}

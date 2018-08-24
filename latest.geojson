@@ -1,0 +1,386 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Surat Vesu",
+        "Type": "Regular Gym",
+        "Address": "8th Floor, Vesu point, Next to Reliance Market, Near S.D. Jain School, Vesu Char rasta, Vesu, Surat – 395007",
+        "Phone": " 88666500303  | 88666500404",
+        "Email": "vesu.surat@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.77313709259033,
+          21.149554401213297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Surat Ghod Dhod",
+        "Type": "Regular Gym",
+        "Address": "Devhouse, 4th Floor, Next to Citi Bank, Ghod-Dhod Road, Surat – 395003",
+        "Phone": "2612254629 | 2612254800",
+        "Email": "ghoddhod.surat@goldsgym.in",
+        "Operational Hours": "2612254629 | 2612254800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7970838546753,
+          21.17454768220988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Srinagar Rajbagh",
+        "Type": "Regular Gym",
+        "Address": "96, RAJBAGH, SRINAGAR, Srinagar, Jammu and Kashmir-190008",
+        "Phone": "7051656565 | 7051646464 | 0194 2312266",
+        "Email": "rajbagh.srinagar@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 11:00 PM Sunday | 06:00 AM – 11:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.82185125350951,
+          34.06164581545102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Ranchi Doranda",
+        "Type": "Regular Gym",
+        "Address": "Hotel Yuvraj Palace, Near Kadru Brige, Dornada, Ranchi, Jharkhand – 834002",
+        "Phone": "6512482134 | 6512482154 | 9386253557 | 9386253558 | 9386253559",
+        "Email": "doranda.ranchi@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32353639602661,
+          23.345802049920728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Trivandrum Sasthamangalam",
+        "Type": "Regular Gym",
+        "Address": "31/747 Shree Dhanya Apex, Sasthamangalam, Trivandrum – 695010",
+        "Phone": "8086400000 | 8086411111 | 0471 2729111",
+        "Email": "goldsgymtvm@gmail.com",
+        "Operational Hours": "Monday – Saturday | 5.30:00 AM – 10:00 PM Sunday | 09:00 AM – 01:00 PM Gym remains closed on every 2nd Saturday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.96579456329346,
+          8.511357882757203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Cochin Vytilla",
+        "Type": "Regular Gym",
+        "Address": "4th Floor, Syama Business Centre, Opp Hindu Office, Vyttila Junction, NH Bypass, Cochin – 682019",
+        "Phone": " 0484-4151997 | 998 | 999",
+        "Email": "vyttila.cochin@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:00 AM – 09:30 PM Sunday | 07:00 AM – 03:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.31754755973816,
+          9.971872714273998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Indore Bharwarkuan",
+        "Type": "Regular Gym",
+        "Address": "201-208, 2nd floor, veda Building, Main Bhawarkuwa square, Indore Pin Code-452001",
+        "Phone": "0731-6558111 | 0731-6559111 | 09300391119",
+        "Email": "bhawarkuan.indore@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 05:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.86686134338379,
+          22.693338513129085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Jabalpur Gorakpur",
+        "Type": "Regular Gym",
+        "Address": "3rd Floor , 655, Chopra Chamber, Cantt, Katanga Crossing, Gorakhpur, Jabalpur – 482001",
+        "Phone": " 7614000313 | 7614002313 | 7614002413",
+        "Email": "gorakpur.jabalpur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9361801147461,
+          23.15188256771958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Bhopal Mahadev Commercial Complex",
+        "Type": "Regular Gym",
+        "Address": "Mahadev Commercial Complex, 2nd and Top Floor , Shivaji Nagar, Opposite Board Office, Link Road No. 1, Bhopal –Madhya Pradesh",
+        "Phone": "9109112355 | 2356|2357",
+        "Email": " mpnagar.bhopal@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.43136167526245,
+          23.231112898587778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Bengaluru RR Nagar",
+        "Type": "Regular Gym",
+        "Address": "GOLDS GYM, Haier Fitness World LLP, No:20,2nd Floor,Nehru Road, BEML Layout 3rd Stage,R R Nagar, Bangalore -500098",
+        "Phone": "088- 84500022 | 088- 84500033",
+        "Email": "rrnagar. bangalore@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:30 AM – 10:30 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.51113057136536,
+          12.935376218782439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "Gym": "Bengaluru RMZ Infinity",
+        "Type": "Regular Gym",
+        "Address": " RMZ Infiniti, The Bay, No. 3 Old Madras Road, Benniganahalli, Bengaluru – 560016",
+        "Phone": "8041657218 | 8041657219 | 8041657220 | 8041657221",
+        "Email": "infinity.bangalore@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:00 AM – 11:00 PM Sunday | 08:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66054034233093,
+          12.994375667062647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Mysore Jayalaxmipuram",
+        "Type": "Regular Gym",
+        "Address": "No. 1, 1st and 2nd Floor, Gokulam Road, Jayalakshmipuram, Mysore – 570012",
+        "Phone": " 8214299399",
+        "Email": "jayalakshmipuram.mysore@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 08:00 AM – 09:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.62103414535522,
+          12.320600852436772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gym": "Bengaluru Whitefield",
+        "Type": "Regular Gym",
+        "Address": "No. 48, Regent Prime, 1st Floor, Whitefield Main Road, Benagluru – 560066",
+        "Phone": " 9900238050 | 9900238051 | 9900238052 | 9900238053 | 9900238054",
+        "Email": "whitefield.bangalore@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75051236152649,
+          12.972483830640064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Bengaluru Old Madras Road",
+        "Type": "Regular Gym",
+        "Address": "RMZ Infiniti, The Bay, No. 3 Old Madras Road, Benniganahalli, Bengaluru – 560016",
+        "Phone": "8041657218 | 8041657219 | 8041657220 | 8041657221",
+        "Email": "infinity.bangalore@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:00 AM – 11:00 PM Sunday | 05:00 AM – 11:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6601594686508,
+          12.993868643007824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Faridabad Sector 9",
+        "Type": "Regular Gym",
+        "Address": "SCF NO 4 & 5 SECTOR 9 HUDA MARKET – 121004",
+        "Phone": 9971009867,
+        "Email": "sector9.faridabad@goldsgym.in , goldsgym9faridabad@gmail.com",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 06:00 AM – 10:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33347177505493,
+          28.37665661505116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Gurgaon Sector 66",
+        "Type": "Regular Gym",
+        "Address": "3rd Floor, M3M Cosmopolitan Sector- 66, Golf Course Extension Road Gurgaon ( Haryana )",
+        "Phone": " 9810376833 | 9810371831 | 9810372831",
+        "Email": "goldsgymsector66@gmail.com",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 08:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06242918968199,
+          28.399531220668326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " North West Delhi Rohini",
+        "Type": "Regular Gym",
+        "Address": "8th Floor, Ring Road Mall, Mangalam Place, Sector -3, Rohini, West Delhi, New Delhi – 110085",
+        "Phone": "1127942655 | 1127942656 | 1127942657",
+        "Email": "rohini.delhi@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11614847183228,
+          28.698220186559944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Noida Sector-104",
+        "Type": "Regular Gym",
+        "Address": "2nd FLOOR, STARLING, PLOT No: -1, SECTOR-104, HAZIPUR, (opp. Lotus Boulevard), NOIDA-201304",
+        "Phone": "9821991754| 9821990754",
+        "Email": "ihdp.noida@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37014025449753,
+          28.5422877732038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": " Greater Noida Sng Plaza",
+        "Type": "Regular Gym",
+        "Address": "SNG Vardhman Plaza second floor, Plot no Glon B. Ansal Golf link- 1, Greater Noida – 201308",
+        "Phone": "9599389941 | 9599389942 | 9399389943 | 9599389944 | 9599389945",
+        "Email": " sngplaza.greaternoida@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5021505355835,
+          28.45722199441565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Gym": "Indore Vijay Nagar",
+        "Type": "Regular ",
+        "Address": "D.No 40- 1- 146A, LEPL Building, 2nd floor, M.G Road, Labbipet, Vijaywada – 520010",
+        "Phone": " 8662494777 | 8662496777 | 8666530777 | 7729012345",
+        "Email": "labbipet.vijayawada@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.88600158691406,
+          22.743256140281986
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "State": "Kerala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4593505859375,
+          10.158153268244805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "State": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2061767578125,
+          9.465317340414682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.04638671875,
+          16.151368535968885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Telangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.21142578125,
+          17.8742034396575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.43212890625,
+          15.432500881886055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Odisha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1005859375,
+          19.518375478601566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4873046875,
+          19.559790136497412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Gujarat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2021484375,
+          23.28171917560002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Rajasthan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5205078125,
+          27.430289738862594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Jammu and Kashmir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2890625,
+          33.96158628979907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Himachal Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2119140625,
+          32.10118973232094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Haryana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1572265625,
+          29.53522956294847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "New Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.091064453125,
+          28.719496107557465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Uttarakhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.21142578125,
+          30.259067203213018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Uttar Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.52978515625,
+          27.527758206861886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Madhya Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4970703125,
+          23.60426184707018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Chhattisgarh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9580078125,
+          22.06527806776582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Jharkhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.83642578125,
+          23.704894502324912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Bihar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8251953125,
+          25.997549919572112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.47607421875,
+          30.4297295750316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "West Bengal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.91259765625,
+          23.805449612314625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Assam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.713623046875,
+          26.43122806450644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.427490234375,
+          26.23430203240673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "\tManipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.922119140625,
+          24.587090339209634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Tripura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91162109375,
+          24.016361823963027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "\tMizoram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.724609375,
+          23.443088931121785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "\tArunachal Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.669189453125,
+          28.671310915880834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Meghalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.823974609375,
+          25.62171595984575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "State": "Goa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0478515625,
+          15.358356179450597
+        ]
+      }
+    }
+  ]
+}

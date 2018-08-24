@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Manipur Imphal",
+        "Type": "Regular Gym",
+        "Address": "Singjamei Chingamathak, Near SBI Bank Imphal West Manipur",
+        "Phone": "07085012901 | 07085012902",
+        "Email": "singjamei.imphal@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:00 AM – 09:00 PM Sunday | 06:00 AM – 01:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.938148021698,
+          24.784650070875177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Shillong Lachumiere",
+        "Type": "Regular Gym",
+        "Address": "Ashiana ‘E’ Azam, Lower Lachumiere, Shillong -793001, Meghalaya",
+        "Phone": "9863099990 | 3642501266",
+        "Email": "lachumiere.shillong@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:30 AM – 9:30 PM Sunday | 7:30 AM – 08:30 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88734173774719,
+          25.570162544163104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Type": "Regular Gym",
+        "Gym": "Bhubaneswar Patia",
+        "Address": "UD City, 3rd Floor, Hig-66, Nandankanan Rd, Kanan Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751024",
+        "Phone": "6742726144 | 7205824102 | 8093924829 | 7077033673 | 8984618424",
+        "Email": "patia.bhubaneswar@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 05:30 AM – 10:00 PM Sunday | 05:30 AM – 10:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.84643840789795,
+          20.322011411326834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Chennai Adyar",
+        "Type": "Regular Gym",
+        "Address": "No 111, Lattice Bridge Road LB Road, NPL Devi, 7th and 8th Floor, Near Thyagaraya Theatre, Adyar, Chennai – 600041",
+        "Phone": "4442038444 | 4442039444 | 4442162111",
+        "Email": "adyar.chennai@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25613009929657,
+          12.99026194717601
+        ]
+      }
+    }
+  ]
+}

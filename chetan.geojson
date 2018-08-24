@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Dehradun Ballupur",
+        "Type": "Regular Gym",
+        "Address": "CSM Westend, 7, Ballupur Road, Near IMA Blood Bank, Dehradun – 248001",
+        "Phone": "7055665500 | 7055665550 | 7055665551",
+        "Email": "ballupur.dehradun@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.01591157913208,
+          30.33399084501717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Kolkata Sodepur",
+        "Type": "Regular Gym",
+        "Address": "16F, 4th Floor, B.T Road, Sukchar, Sodepur, Kolkata – 700115",
+        "Phone": "8420019995 | 8420019996",
+        "Email": "sodepur.kolkata@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.37398052215576,
+          22.707076583037125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Email": "saltlake.kolkata@goldsgym.in",
+        "Type": "Regular Gym",
+        "Gym": "Kolkata Salt Lake",
+        "Address": "8th Floor, Andromeda, DD-30, Near City Center, Salt lake, Sector -1, Kolkata, West Bengal – 700064",
+        "Phone": "40602222|40612222 |8335074397",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.40861320495604,
+          22.590358179096956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Gorakhpur",
+        "Type": "Regular Gym",
+        "Address": "Gallantt Landmark 3rd floor Bank road Gorakhpur 273001",
+        "Phone": "9918244441|9918233335",
+        "Email": "shreesurabhi.gorakhpur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 06:00 AM – 02:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.36670398712158,
+          26.755382576681633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Kanpur Mall Road",
+        "Type": "Regular Gym",
+        "Address": "37/17 westcott building, Mall Road, Kanpur – 208001",
+        "Phone": "7232910101 | 7232940404 |",
+        "Email": "mallroad.kanpur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 03:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.34748077392578,
+          26.477871877571076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Varanasi Bhelupur",
+        "Type": "Regular Gym",
+        "Address": "B-27/87, KK Commercial Complex, DurgaKund Rd, Bhelupur, Varanasi – 221010",
+        "Phone": "7570004606 | 07 | 08 | 09 | 10",
+        "Email": "bhelupur.varanasi@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.00159096717834,
+          25.295244177792043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Meerut Garh Road",
+        "Type": "Regular Gym",
+        "Address": "1st floor, Vardhman Plaza, Garh Road, Meerut – 250001",
+        "Phone": "1214057057 | 875505757 | 8979057057",
+        "Email": "garhroad.meerut@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.85049438476561,
+          28.886766934441745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Lucknow Mahanagar",
+        "Type": "Regular Gym",
+        "Address": "B-108, Near Classic Chauraha, Mahanagar, Lucknow – 226006",
+        "Phone": "5224010634 | 5224010635",
+        "Email": "mahanagar.lucknow@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.95712542533875,
+          26.875779738311888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": "Lucknow Aashiana",
+        "Type": "Regular Gym",
+        "Address": "CP-5, Sector-I, Aashiana, Lucknow – 226012",
+        "Phone": " 7080808640 | 7080808650",
+        "Email": "aashiana.lucknow@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.91552972793579,
+          26.7948364477977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Gym": " Kanpur Swaroop Nagar",
+        "Type": "Regular Gym",
+        "Address": "113/4 G, Swaroop Nagar, Kanpur – 208003",
+        "Phone": "8400023000 | 9721925000",
+        "Email": "swaroopnagar.kanpur@goldsgym.in",
+        "Operational Hours": "Monday – Saturday | 06:00 AM – 10:00 PM Sunday | 09:00 AM – 08:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3190279006958,
+          26.470918768068536
+        ]
+      }
+    }
+  ]
+}
